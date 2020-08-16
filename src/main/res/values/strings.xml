@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+
+    <string name="app_name">Đo Bước Chân</string>
+    <string name="goal">Mục tiêu</string>
+    <string name="step_size">Kích Thước Bước Chân</string>
+    <string name="about">Về Chúng Tôi</string>
+    <string name="account">Tài Khoản: </string>
+    <string name="goal_summary">Mục tiêu hiện tại: %,d Bước</string>
+    <string name="step_size_summary">Kích thước bước chân hiện tại: %1$.2f %2$s</string>
+    <string name="sign_in">Đăng nhập để xem thành tích (chưa làm được Fdroid)</string>
+    <string name="signed_in">Đăng nhập %s</string>
+    <string name="export_summary">Lưu dữ liệu thành file .csv </string>
+    <string name="export_title">Xuất file/ Backup File</string>
+    <string name="import_summary">Đưa dữ liệu đã lưu</string>
+    <string name="import_title">Đưa vào/ Phục Hồi</string>
+    <string name="notification">Hiện thông báo</string>
+    <string name="set_goal">Đặt mục tiêu</string>
+    <string name="set_step_size">Đặt kích thước bước chân</string>
+    <string name="sign_out">Đăng Xuất</string>
+    <string name="file_cant_read">Lỗi: %s không đọc được file</string>
+    <string name="error_file">Lỗi truy cập: %s</string>
+    <string name="error_external_storage_not_available">Error: Lưu trữ ngoài không được</string>
+    <string name="data_saved">Dữ liệu lưu  %s</string>
+    <string name="entries_imported">%d Mục đã lưu</string>
+    <string name="entries_ignored">%d Mục đã lưu không truy cập được</string>
+    <string name="entries_overwritten">%d Đã bị ghi đè bởi dữ liệu đưa vào</string>
+    <string name="sign_in_necessary">Đăng nhập cần thiết</string>
+    <string name="please_sign_in_with_your_google_account">Đăng nhập bằng tài khoản google.</string>
+    <string name="steps">Bước chân</string>
+    <string name="text_color">Màu chữ:</string>
+    <string name="background_color">Màu nền:</string>
+    <string name="settings">Cài đặt</string>
+    <string name="achievements">Kết quả</string>
+    <string name="leaderboard">Bảng thành tích</string>
+    <string name="faq">Liên hệ</string>
+    <string name="goal_reached_notification">Đạt được mục tiêu! với %s bước </string>
+    <string name="notification_text">%s bước nữa</string>
+    <string name="total">Tổng cộng</string>
+    <string name="notification_title">Đang đếm bước chân bạn</string>
+    <string name="your_progress_will_be_shown_here_soon">Sắp xong rồi</string>
+    <string name="average">Trung Bình</string>
+    <string name="record">Ghi nhận</string>
+    <string name="total_last_7_days">Tổng cộng sau 7 ngày</string>
+    <string name="average_last_7_days">Trung bình trong 7 ngày</string>
+    <string name="total_this_month">Tổng cộng tháng này</string>
+    <string name="average_this_month">Trung bình tháng này</string>
+    <string name="file_already_exists">File này bị trùng, có ghi đè không</string>
+    <string name="about_text_links">Apps này tạo bởi Hà Anh và những người bạn (<a href="https://www.facebook.com/leeyanhiun">Hà Anh và những người bạn</a>) \n</string>
+    <string name="about_app_version">App version: Chưa biết</string>
+    <string name="since">Được tạo từ %s</string>
+    <string name="start">Khởi động</string>
+    <string name="stop">Dừng</string>
+    <string name="close">Tắt</string>
+    <string name="no_split_active">Đang không đếm</string>
+    <string name="split_count">Bảng Điều khiển</string>
+    <string name="no_sensor">Không truy cập được sensor</string>
+    <string name="no_sensor_explain">Lỗi.</string>
+    <string name="permission_external_storage">Không có quyền truy cập</string>
+    <string name="notification_settings">Cài Đặt thông báo</string>
+</resources>
